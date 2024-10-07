@@ -131,6 +131,11 @@ body{
     background-color: var(--dark-blue);
 }
 
+.cards a{
+    color: var(--white);
+    text-decoration: none;
+}
+
 /*------Tamanho------*/
 .tamanho{
     width: 100%;
@@ -199,6 +204,11 @@ body{
     font-size: 20px;
     border-radius: 50px;
     margin-top: 20px;
+}
+
+.textos a{
+    color: var(--black);
+    text-decoration: none;
 }
 
 /*------Copyright------*/
