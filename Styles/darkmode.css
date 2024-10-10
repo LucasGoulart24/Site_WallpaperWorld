@@ -1,0 +1,53 @@
+.darkmode{
+    background-color: rgb(22, 22, 22);
+}
+
+.darkmode .menu h3{
+    color: blue;
+}
+
+.darkmode .pesquisa input{
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+
+.darkmode .pesquisa input::placeholder{
+    color: white;
+}
+
+.darkmode .pesquisa button{
+    background-color: blue;
+}
+
+.darkmode .pesquisa .mode{
+    background-color: white;
+    color: black;
+}
+
+.darkmode .cards{
+    background-color: rgb(49, 49, 49);
+    border: 1px solid black;
+}
+
+.darkmode .cards button{
+    background-color: blue;
+}
+
+.darkmode .cards button:hover{
+    background-color: darkblue;
+}
+
+.darkmode .tamanho p{
+    background-color: black;
+    color: white;
+}
+
+.darkmode .copyright{
+    background-color: black;
+    color: white;
+}
+
+.darkmode .redes i{
+    background-color: white;
+    color: black;
+}
