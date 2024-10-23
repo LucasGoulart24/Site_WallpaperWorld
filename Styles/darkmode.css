@@ -6,8 +6,12 @@
     color: blue;
 }
 
-.darkmode .pesquisa input{
+.darkmode .pesquisa{
     background-color: rgb(49, 49, 49);
+}
+
+.darkmode .pesquisa input{
+    background-color: transparent;
     color: white;
 }
 
@@ -15,11 +19,11 @@
     color: white;
 }
 
-.darkmode .pesquisa button{
-    background-color: blue;
+.darkmode .pesquisa i{
+    color: white;
 }
 
-.darkmode .pesquisa .mode{
+.darkmode .menu .mode{
     background-color: white;
     color: black;
 }
